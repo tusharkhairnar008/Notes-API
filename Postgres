@@ -1,0 +1,3 @@
+Postgres
+
+psql -h localhost -p 5432 -U postgres -d pharmasampledata -f D:\pharmaSource\pharma_data_15k.sql
